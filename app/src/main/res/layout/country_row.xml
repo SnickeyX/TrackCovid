@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/country_row"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@color/country_row_background"
+    android:foreground="?android:attr/selectableItemBackground">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/country_row_text_view"
+        android:textSize="17dp"
+        android:textColor="@color/whitre"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"/>
+</LinearLayout>

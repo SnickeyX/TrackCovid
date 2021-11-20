@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrackCovid</string>
+    <string
+        name="linktoWHO"><a href="https://www.who.int/health-topics/coronavirus#tab=tab_1">Tap here for information on Covid-19</a></string>
+    <string
+        name="linktoNEWS"><a href="https://www.medicalnewstoday.com/articles/live-updates-coronavirus-covid-19#1">Tap here for latest news</a></string>
+    <string
+        name="linktoCDC"><a href="https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html">Tap here if you or someone you know feels sick</a></string>
+    <string name="underline"><u>Useful links:</u>.</string>
+</resources>
+
